@@ -2,11 +2,18 @@
 <img src="./.img/bannerS.jpg" width ="100%" > </img>
 
 > No te pierdas en los detalles, lo simple puede ser la clave.
-
-![Metrics](/github-metrics.svg)
-![Recent activity](/metrics.plugin.activity.svg)
-![Recent activity charts](/metrics.plugin.habits.charts.svg)
-![Icons](/metrics.plugin.topics.icons.svg)
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
+<picture>
+ <img src = "/metrics.plugin.activity.svg" alt ="Recent activity">
+ </picture>
+<picture>
+ <img src = "/metrics.plugin.habits.charts.svg" alt ="Recent activity charts">
+ </picture>
+<picture>
+ <img src = "/metrics.plugin.topics.icons.svg" alt ="Icons">
+ </picture>
 
 ## About Me
 I'm a  currently studying software development.
