@@ -4,10 +4,8 @@
 > No te pierdas en los detalles, lo simple puede ser la clave.
 <picture>
   <img src="/github-metrics.svg" alt="Metrics">
+   <img src = "/metrics.plugin.activity.svg" alt ="Recent activity">
 </picture>
-<picture>
- <img src = "/metrics.plugin.activity.svg" alt ="Recent activity">
- </picture>
 <picture>
  <img src = "/metrics.plugin.habits.charts.svg" alt ="Recent activity charts">
  </picture>
