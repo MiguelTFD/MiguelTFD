@@ -1,5 +1,5 @@
 # Hi there! `I'm MiguelTFD 🐻‍❄️`
-<img src="./.img/sno.gif" width ="100%" > </img>
+<img src="./.img/bannerS.jpg" width ="100%" > </img>
 
 > No te pierdas en los detalles, lo simple puede ser la clave.
 
