@@ -1,6 +1,7 @@
-<img src="./.img/snow.webp" width ="100%" style="border-radius: 10px"> </img>
-
 # Hi there! `I'm MiguelTFD 🐻‍❄️`
+<img src="./.img/sno.gif" width ="100%" > </img>
+
+> No te pierdas en los detalles, lo simple puede ser la clave.
 
 ## About Me
 I'm a  currently studying software development.
@@ -9,8 +10,7 @@ I enjoy solving puzzles, figuring out how things work and am always learning and
 
 - 💻 Backend Developer skills
 - 🔍 Passionate about Logic and Problem-Solving
-- 🌱 Always Learning
-
+- 📚 Always Learning
 
 ## Technologies and Tools
 I'm comfortable working with a range of technologies and tools, including:
