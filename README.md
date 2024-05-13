@@ -4,7 +4,10 @@
 > No te pierdas en los detalles, lo simple puede ser la clave.
 
 ![Metrics](/github-metrics.svg)
+![Recent activity](/metrics.plugin.activity.svg)
+![Recent activity charts](/metrics.plugin.habits.charts.svg)
 ![Icons](/metrics.plugin.topics.icons.svg)
+
 ## About Me
 I'm a  currently studying software development.
 I love programming, especially focusing on backend development.
