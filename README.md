@@ -2,16 +2,11 @@
 <img src="./.img/bannerS.jpg" width ="100%" > </img>
 
 > No te pierdas en los detalles, lo simple puede ser la clave.
-<picture>
-  <img src="/github-metrics.svg" alt="Metrics">
-   <img src = "/metrics.plugin.activity.svg" alt ="Recent activity">
-</picture>
-<picture>
- <img src = "/metrics.plugin.habits.charts.svg" alt ="Recent activity charts">
- </picture>
-<picture>
- <img src = "/metrics.plugin.topics.icons.svg" alt ="Icons">
- </picture>
+
+[<img align="left" width="390" alt="main" src="/github-metrics.svg">](#)
+[<img align="right" width="150" alt="activity" src=/metrics.plugin.activity.svg>](#)
+[<img align="right" width="390" alt="Habits" src="/metrics.plugin.habits.charts.svg">](#)
+[<img align="left" width="150" alt="icons" src="/metrics.plugin.topics.icons.svg">](#)
 
 ## About Me
 I'm a  currently studying software development.
