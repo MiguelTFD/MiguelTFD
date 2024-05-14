@@ -41,15 +41,16 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_calendar: yes
-      - name: Indepth analysis
+          
+      - name: reporte
         uses: lowlighter/metrics@latest
         with:
-            filename: metrics.plugin.followup.indepth.svg
-            token: ${{ secrets.METRICS_TOKEN }}
-            base: ""
-            plugin_followup: yes
-            plugin_followup_indepth: yes
-            plugin_followup_sections: user,repositories
+          filename: metrics.plugin.followup.user.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_followup: yes
+          plugin_followup_sections: user, repositories
+
 
 
 
