@@ -45,7 +45,7 @@ jobs:
       - name: reporte
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.followup.user.svg
+          filename: metrics.plugin.followup.ves.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_followup: yes
