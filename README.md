@@ -11,7 +11,7 @@
 ---
 
 [<img align="left" width="45%" alt="main" src="/metrics.plugin.languages.indepth.svg">](#)
-[<img align="left" width="45%" alt="main" src="/metrics.plugin.followup.user.svg">](#)
+[<img align="left" width="45%" alt="main" src="/metrics.plugin.followup.ves.svg">](#)
 
 
 
