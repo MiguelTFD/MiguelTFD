@@ -3,6 +3,7 @@
 
 > No te pierdas en los detalles, lo simple puede ser la clave.
 
+---
 
 [<img width="100%" alt="bar" src="/metrics.plugin.calendar.svg">](#)
 
