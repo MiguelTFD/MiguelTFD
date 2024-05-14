@@ -10,10 +10,10 @@
 [<img  width="60%" alt="main" src="/github-metrics.svg">](#)
 
 ---
-
+<div>
 [<img align="left" width="45%" alt="main" src="/metrics.plugin.languages.indepth.svg">](#)
 [<img align="right" width="45%" alt="main" src="/metrics.plugin.followup.ves.svg">](#)
-
+</div>
 ---
 
 ## About me
