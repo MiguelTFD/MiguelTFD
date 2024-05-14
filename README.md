@@ -1,4 +1,4 @@
-<img src="./.img/Add a heading.gif" width ="100%" > </img>
+<img src="./.img/banner.gif" width ="100%" > </img>
 
 
 
