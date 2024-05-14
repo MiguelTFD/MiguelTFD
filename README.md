@@ -3,11 +3,17 @@
 
 > No te pierdas en los detalles, lo simple puede ser la clave.
 
+
+[<img width="100%" alt="bar" src="/metrics.plugin.calendar.svg">](#)
+
 [<img align="left" width="60%" alt="main" src="/github-metrics.svg">](#)
 
-[<img align="left" width="40%" alt="activity" src="/metrics.plugin.activity.svg">](#)
-[<img align="right" width="40%" alt="Habits" src="/metrics.plugin.habits.charts.svg">](#)
-[<img align="left" width="40%" alt="icons" src="/metrics.plugin.topics.icons.svg">](#)
+---
+
+[<img align="left" width="45%" alt="main" src="/metrics.plugin.languages.indepth.svg">](#)
+
+[<img align="left" width="45%" alt="main" src="/metrics.plugin.followup.indepth.svg">](#)
+
 
 
 
