@@ -11,8 +11,8 @@
 ---
 
 <p align="center">
-<img  style="max-width:100%" alt="stack" src="/metrics.plugin.languages.indepth.svg"/>
-<img style="max-width:100%"  alt="status" src="/metrics.plugin.followup.ves.svg"/>
+<img  style="max-width:100%;width:400px" alt="stack" src="/metrics.plugin.languages.indepth.svg"/>
+<img style="max-width:100%;width:400px"  alt="status" src="/metrics.plugin.followup.ves.svg"/>
 </p>
 
 ---
