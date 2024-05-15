@@ -11,9 +11,10 @@
 ---
 
 <p align="center">
-<img align="" width="45%" alt="main" src="/metrics.plugin.languages.indepth.svg"/>
-<img align="right" width="45%" alt="main" src="/metrics.plugin.followup.ves.svg"/>
+<img  style="max-width:100%" alt="stack" src="/metrics.plugin.languages.indepth.svg"/>
+<img style="max-width:100%"  alt="status" src="/metrics.plugin.followup.ves.svg"/>
 </p>
+
 ---
 
 ## About me
