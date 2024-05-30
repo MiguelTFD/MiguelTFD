@@ -1,5 +1,3 @@
-<img src="./.img/banner.gif" width ="100%" > </img>
-
 
 
 [<img width="100%" alt="bar" src="/metrics.plugin.calendar.svg">](#)
