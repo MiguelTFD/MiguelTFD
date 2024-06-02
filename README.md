@@ -1,9 +1,9 @@
 
 
- <table align="center">
+ <table cellpadding="20px" >
   <tr>
-    <th height="500px" width="500px"><img  style="max-width:100%;width:90%;"  src="https://quotes-github-readme.vercel.app/api?quote=I+love+programming,+especially+focusing+on+backend+development.+I+enjoy+solving+puzzles,+figuring+out+how+things+work+and+am+always+learning+and+improving.&type=vertical&theme=nord"> </th>
-    <th height="500px" width="500px"> <img  style="max-width:100%;width:90%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelTFD&layout=donut-vertical&theme=nord&hide_border=true" alt="Languajes stats"> </th>
+    <th  width="600"> <img width="100%" src="https://quotes-github-readme.vercel.app/api?quote=I+love+programming,+especially+focusing+on+backend+development.+I+enjoy+solving+puzzles,+figuring+out+how+things+work+and+am+always+learning+and+improving.&type=vertical&theme=nord"> </th>
+    <th  width="600">  <img  width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelTFD&layout=donut-vertical&theme=nord&hide_border=true" alt="Languajes stats"> </th>
   </tr>
 </table> 
 
@@ -39,7 +39,7 @@
   
    <p align="center">
   <a href="#">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,sqlserver,jquery" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,sqlserver" />
   </a>
   </p>
 
@@ -68,10 +68,7 @@
   </p>
 </p>
 
-<hr>
-
-
-
+---
 
 
 
