@@ -1,24 +1,75 @@
 
 
-[<img width="100%" alt="bar" src="/metrics.plugin.calendar.svg">](#)
-
----
-
-[<img  width="60%" alt="main" src="/github-metrics.svg">](#)
-
----
+ <table align="center">
+  <tr>
+    <th height="500px" width="500px"><img  style="max-width:100%;width:90%;"  src="https://quotes-github-readme.vercel.app/api?quote=I+love+programming,+especially+focusing+on+backend+development.+I+enjoy+solving+puzzles,+figuring+out+how+things+work+and+am+always+learning+and+improving.&type=vertical&theme=nord"> </th>
+    <th height="500px" width="500px"> <img  style="max-width:100%;width:90%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelTFD&layout=donut-vertical&theme=nord&hide_border=true" alt="Languajes stats"> </th>
+  </tr>
+</table> 
 
 <p align="center">
-<img  style="max-width:100%;width:400px" alt="stack" src="/metrics.plugin.languages.indepth.svg"/>
-<img style="max-width:100%;width:400px"  alt="status" src="/metrics.plugin.followup.ves.svg"/>
+<img  style="max-width:100%;width:400px;margin:5px" alt="stack" src="https://github-readme-stats.vercel.app/api?username=MiguelTFD&show_icons=true&theme=nord&rank_icon=github&card_width="/>
+<img  style="max-width:100%;width:570px;margin:5px"  alt="status" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MiguelTFD&theme=nord_dark"/>
 </p>
 
 ---
 
-## About me
-I'm a  currently studying software development at [Cibertec](https://www.linkedin.com/school/cibertec/).
-I love programming, especially focusing on backend development.
-I enjoy solving puzzles, figuring out how things work and am always learning and improving.
+<p align="center">
+
+<h3 align="center">Languajes</h3>
+
+
+  
+  <p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=bash,java,cs,js" />
+  </a>
+  </p>
+
+<h3 align="center">Frameworks</h3>
+  
+   <p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=spring,angular,dotnet,jquery,bootstrap" />
+  </a>
+  </p>
+
+
+<h3 align="center">Databases</h3>
+  
+   <p align="center">
+  <a href="#">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,sqlserver,jquery" />
+  </a>
+  </p>
+
+  <h3 align="center">Development Tools</h3>
+  
+   <p align="center">
+  <a href="#">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=vim,datagrip,idea,eclipse,vscode,visualstudio"/>
+  </a>
+  </p>
+
+
+  <h3 align="center">DevOps</h3>
+  
+   <p align="center">
+  <a href="#">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,docker,git,githubactions"/>
+  </a>
+  </p>
+  
+  <h3 align="center">Miscellaneous</h3>
+   <p align="center">
+  <a href="#">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=obsidian,figma,miro,gradle,maven,html,css,sass"/>
+  </a>
+  </p>
+</p>
+
+<hr>
+
 
 
 
