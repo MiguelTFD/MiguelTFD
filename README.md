@@ -24,13 +24,12 @@
 -->
 <p align="center">
 <a>
-  <img height=145 align="center" src="https://github-readme-stats.vercel.app/api?username=MiguelTFD&show_icons=true&theme=nord&rank_icon=github" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=MiguelTFD&show_icons=true&theme=nord&rank_icon=github" />
 </a>
 <a>
-  <img height=140 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MiguelTFD&theme=nord_dark" />
+  <img height=150 align="center" src="https://streak-stats.demolab.com?user=MiguelTFD&theme=nord&date_format=j%2Fn%5B%2FY%5D&mode=weekly" alt="GitHub Streak" />
 </a>
 </p>
-
 
 ---
 
