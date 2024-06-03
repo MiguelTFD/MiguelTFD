@@ -2,7 +2,11 @@
 
  <table cellpadding="20px" >
   <tr>
-    <th  width="600"> <img width="100%" src="https://quotes-github-readme.vercel.app/api?quote=I+love+programming,+especially+focusing+on+backend+development.+I+enjoy+solving+puzzles,+figuring+out+how+things+work+and+am+always+learning+and+improving.&type=vertical&theme=nord"> </th>
+    <th  width="600"> 
+     
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fredoka&weight=600&size=30&pause=1000&color=88C0D0&center=true&repeat=false&random=false&width=435&lines=Current+OS)](https://git.io/typing-svg) 
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=debian,gnome)
+    </th>
     <th  width="600">  <img  width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelTFD&layout=donut-vertical&theme=nord&hide_border=true" alt="Languajes stats"> </th>
   </tr>
 </table> 
