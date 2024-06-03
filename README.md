@@ -24,11 +24,10 @@
 -->
 <p align="center">
 <a>
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=MiguelTFD&show_icons=true&theme=nord&rank_icon=github" />
+  <img height=145 align="center" src="https://github-readme-stats.vercel.app/api?username=MiguelTFD&show_icons=true&theme=nord&rank_icon=github" />
 </a>
- <a><img align="center" width="10%" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgdmlld0JveD0iMCAwIDEwMCAxMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgc3R5bGU9Im9wYWNpdHk6IDA7Ij48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0icmVkIi8+PC9zdmc+" alt=""></a>
 <a>
-  <img height=150 align="center" src="https://streak-stats.demolab.com?user=MiguelTFD&theme=nord&date_format=j%2Fn%5B%2FY%5D&mode=weekly" alt="GitHub Streak" />
+  <img height=140 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MiguelTFD&theme=nord_dark" />
 </a>
 </p>
 
