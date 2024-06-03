@@ -16,11 +16,21 @@
 </p>
 
 <hr>
-
+<!--
 <p align="center">
-<img  style="max-width:100%;width:340px;margin:5px" alt="stack" src="https://github-readme-stats.vercel.app/api?username=MiguelTFD&show_icons=true&theme=nord&rank_icon=github&card_width="/>
+<img  style="max-width:100%;width:340px;margin:5px" alt="stack" src="https://github-readme-stats.vercel.app/api?username=MiguelTFD&show_icons=true&theme=nord&rank_icon=github"/>
 <img  style="max-width:100%;width:500px;margin:5px"  alt="status" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MiguelTFD&theme=nord_dark"/>
 </p>
+-->
+<p align="center">
+<a>
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=MiguelTFD&show_icons=true&theme=nord&rank_icon=github" />
+</a>
+<a>
+  <img height=150 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MiguelTFD&theme=nord_dark" />
+</a>
+</p>
+
 
 ---
 
