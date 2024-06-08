@@ -75,7 +75,7 @@
   
    <p align="center">
   <a href="#">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,docker,git,githubactions"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,docker,git"/>
   </a>
   </p>
   
