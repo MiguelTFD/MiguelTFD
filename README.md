@@ -24,7 +24,7 @@
 -->
 <p align="center">
 <a>
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=MiguelTFD&show_icons=true&theme=nord&rank_icon=github&hide_border=true" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=MiguelTFD&show_icons=true&theme=nord&rank_icon=github&hide_border=true&include_all_commits=true&count_private=true" />
 </a>
 <a><img align="center" width="9%" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgdmlld0JveD0iMCAwIDEwMCAxMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgc3R5bGU9Im9wYWNpdHk6IDA7Ij48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0icmVkIi8+PC9zdmc+" alt=""></a>
 <a>
