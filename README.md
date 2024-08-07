@@ -82,7 +82,7 @@
   <h3 align="center">Miscellaneous</h3>
    <p align="center">
   <a href="#">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=obsidian,figma,miro,gradle,maven,html,css,sass"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=obsidian,figma,miro,maven,html,css,sass"/>
   </a>
   </p>
 </p>
