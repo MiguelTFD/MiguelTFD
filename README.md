@@ -49,7 +49,7 @@
   
    <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=spring,angular,dotnet,jquery,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=spring,angular,dotnet,bootstrap" />
   </a>
   </p>
 
