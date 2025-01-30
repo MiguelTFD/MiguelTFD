@@ -41,7 +41,7 @@
   
   <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=bash,java,cs,js" />
+    <img src="https://skillicons.dev/icons?i=java,ts,cs,bash" />
   </a>
   </p>
 
