@@ -35,7 +35,7 @@
 
 <p align="center">
 
-<h3 align="center">Languajes</h3>
+<h3 align="center">Languages</h3>
 
 
   
