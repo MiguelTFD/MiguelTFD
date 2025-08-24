@@ -41,7 +41,7 @@
   
   <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=java,ts,cs,bash" />
+    <img src="https://skillicons.dev/icons?i=java,ts,php,cs,bash" />
   </a>
   </p>
 
@@ -49,7 +49,7 @@
   
    <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=spring,react,dotnet,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=spring,react,laravel,dotnet,bootstrap" />
   </a>
   </p>
 
@@ -58,7 +58,7 @@
   
    <p align="center">
   <a href="#">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,sqlserver" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,mariadb,mongodb,sqlserver" />
   </a>
   </p>
 
