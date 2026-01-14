@@ -12,19 +12,13 @@
 <p align="center">
 <img align="center" style="max-width:100%;width:360px;margin:5px" alt="stack" src="https://quotes-github-readme.vercel.app/api?quote=I+enjoy+solving+puzzles+and+figuring+out+how+things+work+to+build+high-quality+software.&author=-&type=vertical&theme=gruvbox"/>
 <img align="center" width="9%" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgdmlld0JveD0iMCAwIDEwMCAxMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgc3R5bGU9Im9wYWNpdHk6IDA7Ij48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0icmVkIi8+PC9zdmc+" alt="">
-<img align="center" style="max-width:100%;width:380px;margin:5px"  alt="status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelTFD&layout=donut-vertical&theme=gruvbox&hide_border=true&hide=css,html"/>
+<img align="center" style="max-width:100%;width:380px;margin:5px"  alt="status" src="https://github-readme-stats-omega-flame-50.vercel.app/api/top-langs/?username=MiguelTFD&layout=donut-vertical&theme=gruvbox&hide_border=true&hide=css,html"/>
 </p>
 
 <hr>
-<!--
-<p align="center">
-<img  style="max-width:100%;width:340px;margin:5px" alt="stack" src="https://github-readme-stats.vercel.app/api?username=MiguelTFD&show_icons=true&theme=gruvbox&rank_icon=github"/>
-<img  style="max-width:100%;width:500px;margin:5px"  alt="status" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MiguelTFD&theme=gruvbox_dark"/>
-</p>
--->
 <p align="center">
 <a>
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=MiguelTFD&show_icons=true&theme=gruvbox&rank_icon=github&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height=150 align="center" src="https://github-readme-stats-omega-flame-50.vercel.app/api?username=MiguelTFD&show_icons=true&theme=gruvbox&rank_icon=github&hide_border=true&include_all_commits=true&count_private=true" />
 </a>
 <a><img align="center" width="9%" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgdmlld0JveD0iMCAwIDEwMCAxMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgc3R5bGU9Im9wYWNpdHk6IDA7Ij48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0icmVkIi8+PC9zdmc+" alt=""></a>
 <a>
