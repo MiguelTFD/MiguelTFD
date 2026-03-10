@@ -35,7 +35,7 @@
   
   <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=java,ts,php,cs,bash" />
+    <img src="https://skillicons.dev/icons?i=java,php,bash,js,ts" />
   </a>
   </p>
 
@@ -43,7 +43,7 @@
   
    <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=spring,react,laravel,dotnet,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=spring,laravel,angular,react" />
   </a>
   </p>
 
@@ -52,7 +52,7 @@
   
    <p align="center">
   <a href="#">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,mariadb,mongodb,sqlserver" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,mariadb,sqlserver,mongodb" />
   </a>
   </p>
 
@@ -60,7 +60,7 @@
   
    <p align="center">
   <a href="#">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=vim,datagrip,idea,eclipse,vscode,visualstudio"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=vim,eclipse,datagrip,idea,webstorm"/>
   </a>
   </p>
 
@@ -69,7 +69,7 @@
   
    <p align="center">
   <a href="#">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,docker,git"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,docker,git,selenium"/>
   </a>
   </p>
   
